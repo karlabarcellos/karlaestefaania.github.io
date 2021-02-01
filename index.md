@@ -2,7 +2,7 @@
 layout: page
 excerpt: "About Me..."
 ---
- ## About
+
   
   I am an economist with experience in research, statistical and econometric analysis, data analysis, and processing. My credentials include a bachelor’s degree in economics from the University of Guadalajara, Mexico, a Master in Public Administration, and over 7 years in the field of economics.
 
