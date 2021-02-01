@@ -3,7 +3,7 @@ layout: post
 title: Implications for Canada of the non-participation of the U.S. in the Trans-Pacific Partnership
 excerpt: "Implications for Canada of the non-participation of the U.S. in the Trans-Pacific Partnership"
 modified: 2/01/2021, 9:00:24
-tags: [intro, beginner, jekyll, tutorial]
+tags: [economics, canada, trade, US]
 comments: true
 category: blog
 ---
