@@ -2,7 +2,6 @@
 ---
 layout: post
 title: Implications for Canada of the non-participation of the U.S. in the Trans-Pacific Partnership
-
 excerpt: "Implications for Canada of the non-participation of the U.S. in the Trans-Pacific Partnership"
 modified: 2/29/2020, 9:00:24
 tags: [economics, trade, Canada, U.S.]
@@ -51,6 +50,6 @@ Government of British Columbia (2019) Statistics. From: https://www2.gov.bc.ca/g
 Ciuriak, D. (2019) “How U.S. trade policy has changed under President Donald Trump – Perceptions from Canada”. Download from https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3362910
 
 Global Affairs Canada (2018) “Economic impact of Canada’s participation in the Comprehensive and Progressive Agreement for Trans-Pacific Partnership”. Download from https://www.international.gc.ca/trade-commerce/trade-agreements-accords-commerciaux/agr-acc/cptpp-ptpgp/impact-repercussions.aspx?lang=eng
-
+-----
 
 
