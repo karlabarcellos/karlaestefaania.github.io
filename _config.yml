@@ -1,19 +1,19 @@
 # Site wide configuration
 
-title: Academic Website of Ted Laderas
+title: Karla Estefania Romero
 locale: en_US
-logo: # filename of a logo image that has been placed into your images directory
+logo: images/logo.png
 
 # Enter the following platform usernames if you would like for them to appear on your site.
 owner:
   name: Ted Laderas
-  avatar: bio-photo.jpg
-  bio: "This is a sample Jekyll academic website."
+  avatar: karla_photo.jpg
+  bio: "An economist recently relocated to Vancouver | Public Policy | Finance | Macroeconomics | Data analysis |"
   email: laderast@ohsu.edu
   # Do not include the @ symbol in your Twitter username
-  twitter: laderast
-  linkedin: #username
-  github: laderast
+  twitter: karlaestefaania
+  linkedin: karlaestefaniaromero/?locale=en_US
+  github: karlaestefania
   orcid: # ID Number (ex. 0000-0000-0000-0000)
   researchgate: #username
   mendeley: #username
@@ -23,7 +23,7 @@ owner:
     verify:
     scholar: #id
   facebook: #username
-  instagram: #username
+  instagram: karlaestefaania
   bing-verify:
   stackoverflow: #123456/username from a "https://stackoverflow.com/users/123456/username" link
   xing: #username
