@@ -22,11 +22,11 @@ Additionally, I love learning new things. I am constantly attending boot camps, 
 
 My research areas are: 
   
-  * ** Monetary policy: Impact of the Central Banks decisions in the economic system.
-* ** Macroeconomics: Evolution, relations and impact of the macroeconomic indicators in Mexico and Canada.
-* ** Labour Market: 
-  * ** Financial, institutional, and organizational framework: fiscal policies, federalism and centralism and the debt in subnational governments.
-* ** Data Science and AI : Impact and regulations of the new technologies in government and Institutional decisions.
+  * Monetary policy: Impact of the Central Banks decisions in the economic system.
+  * Macroeconomics: Evolution, relations and impact of the macroeconomic indicators in Mexico and Canada.
+  * Labour Market: 
+  * Financial, institutional, and organizational framework: fiscal policies, federalism and centralism and the debt in subnational governments.
+  * Data Science and AI : Impact and regulations of the new technologies in government and Institutional decisions.
 
 ## Other interests
 
