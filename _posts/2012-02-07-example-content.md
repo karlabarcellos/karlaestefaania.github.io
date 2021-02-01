@@ -8,15 +8,6 @@ comments: true
 category: blog
 ---
 
----
-layout: post
-title: Implications for Canada of the non-participation of the U.S. in the Trans-Pacific Partnership
-excerpt: "Implications for Canada of the non-participation of the U.S. in the Trans-Pacific Partnership"
-modified: 2/29/2020, 9:00:24
-tags: [economics, trade, Canada, U.S.]
-comments: true
-category: blog
----
 
 <div class="message">
   
