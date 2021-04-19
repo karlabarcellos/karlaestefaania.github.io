@@ -1,6 +1,6 @@
 # Site wide configuration
 
-title: Karla Estefania Romero
+title: Karla Estefania Barcellos
 locale: en_US
 logo: #logo.png
 
@@ -8,12 +8,12 @@ logo: #logo.png
 owner:
   name: Karla Romero
   avatar: karla_photo.jpg
-  bio: "I am an economist recently relocated to Vancouver. Research, Public Policy, Finance, Macroeconomics, and Data analysis."
+  bio: "I am an economist. |Macroeconomics | Data analysis | Research | Public Policy |"
   email: kannfa@gmail.com
   # Do not include the @ symbol in your Twitter username
-  twitter: karlaestefaania
-  linkedin: karlaestefaniaromero/?locale=en_US
-  github: karlaestefaania
+  twitter: _karlabarcellos
+  linkedin: karlabarcellos/?locale=en_US
+  github: karlabarcellos
   orcid: # ID Number (ex. 0000-0000-0000-0000)
   researchgate: #username
   mendeley: #username
@@ -23,7 +23,7 @@ owner:
     verify:
     scholar: #id
   facebook: #username
-  instagram: karlaestefaania
+  instagram: karlaestefaniabarcellos
   bing-verify:
   stackoverflow: #123456/username from a "https://stackoverflow.com/users/123456/username" link
   xing: #username
